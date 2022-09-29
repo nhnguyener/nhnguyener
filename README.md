@@ -41,7 +41,7 @@ My GitHub will contain my previous coursework along with any personal projects I
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nhnguyen6239@gmail.com&su=GitHub Contact: ">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="">
+  <a href="https://discordapp.com/users/1024871318933471274">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://leetcode.com/nhnguyener/">
