@@ -73,7 +73,9 @@ _____________________________________________________
 
 
 <div id="footer" align="right">
-  Thanks for visiting!!!!!
+  Thanks for visiting!
   <br>
+  <!--
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Love Badge"/>
+  -->
 </div>
